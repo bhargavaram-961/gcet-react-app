@@ -6,7 +6,7 @@ import './App.css'
 function App() {
   return (
     <>
-    <header>My online Store</header>
+    <header>Ecommerce:By Bhargava Ram</header>
     <hr />
       <h1>My React STORE</h1>
       <hr />
