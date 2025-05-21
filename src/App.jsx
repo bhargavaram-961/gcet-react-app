@@ -10,7 +10,7 @@ function App() {
     <hr />
       <h1>My React STORE</h1>
       <hr />
-      <footer>&copyright all rights reserved</footer>
+      <footer>&copyright; all rights reserved</footer>
     </>
   )
 }
